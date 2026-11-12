@@ -1,1 +1,1 @@
-# Python_Notes_2
+# Complete Notes [1st & 2nd sem]
